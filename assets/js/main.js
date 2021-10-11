@@ -1,7 +1,7 @@
 /*==================== MENU SHOW Y HIDDEN ====================*/
-const navMenu = document.getElementById('nav-menu').innerHTML;
-const navToggle = document.getElementById('nav-toggle').innerHTML;
-const  navClose = document.getElementById('nav-close').innerHTML;
+const navMenu = document.getElementById('nav-menu');
+const navToggle = document.getElementById('nav-toggle');
+const  navClose = document.getElementById('nav-close');
 
 /*===== MENU SHOW =====*/
 /* Validate if constant exists */
